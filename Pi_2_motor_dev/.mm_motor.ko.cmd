@@ -1,1 +1,0 @@
-cmd_/home/jeongwoncho/IS/Motor/mm_moter/Final/mm_motor.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/jeongwoncho/IS/Motor/mm_moter/Final/mm_motor.ko /home/jeongwoncho/IS/Motor/mm_moter/Final/mm_motor.o /home/jeongwoncho/IS/Motor/mm_moter/Final/mm_motor.mod.o ;  true

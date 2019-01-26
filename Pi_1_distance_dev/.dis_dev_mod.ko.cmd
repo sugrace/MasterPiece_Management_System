@@ -1,1 +1,0 @@
-cmd_/home/shin/project/DistanceDev/dis_dev_mod.ko := /usr/bin/arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/shin/project/DistanceDev/dis_dev_mod.ko /home/shin/project/DistanceDev/dis_dev_mod.o /home/shin/project/DistanceDev/dis_dev_mod.mod.o ;  true
